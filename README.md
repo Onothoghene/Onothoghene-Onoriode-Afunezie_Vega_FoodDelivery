@@ -74,6 +74,7 @@ Authentication: JWT-based authentication with role-based access
 Notifications: React Hot Toast
 
 **Project Structure**
+
 src/
 │-- api/
 │   ├── axiosInstance.js
@@ -107,6 +108,7 @@ src/
 │-- index.js
 
 
+**API Endpoints**
 
 Authentication
 POST ==== /api/v1/Account/authenticate ==== Login User
